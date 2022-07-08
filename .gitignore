@@ -36,3 +36,6 @@ build/
 
 ### Mac OS ###
 .DS_Store
+
+### DB configuration ###
+/src/main/webapp/META-INF/context.xml
